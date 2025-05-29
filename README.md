@@ -34,8 +34,8 @@ This Python project leverages the [NBA API](https://github.com/swar/nba_api) and
 
 1. **Clone the repository**  
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+    git clone git@github.com:krish-thakker/nba-mvp-predictor.git
+    cd nba-mvp-predictor
    ```
 
 2. **Create a virtual environment**  
